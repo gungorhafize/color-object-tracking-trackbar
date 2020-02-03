@@ -1,2 +1,2 @@
 # color-object-tracking-trackbar
-color-based-object-tracking
+Color-based-object-tracking via OpenCv-Python
